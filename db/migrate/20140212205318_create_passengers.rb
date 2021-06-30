@@ -5,4 +5,3 @@ class CreatePassengers < ActiveRecord::Migration
     end
   end
 end
-_ride
